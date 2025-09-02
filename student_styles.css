@@ -1,0 +1,17 @@
+/* student_styles.css — Step 2 starter
+   TODO: Change the page background so you can clearly see the stylesheet is connected.
+   You can also add any tasteful font, spacing, or color tweaks.
+*/
+body {
+  /* Try a different color: #fff7ed (peach), #eff6ff (pale blue), #f0fdf4 (pale green) */
+  background: #f7efe0;
+  color: #0f172a;
+}
+
+/* Optional polish */
+code { 
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  background: rgba(15, 23, 42, 0.06);
+  padding: 2px 6px;
+  border-radius: 6px;
+}
